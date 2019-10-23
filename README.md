@@ -21,7 +21,7 @@ News Highlight is a web application that helps  people to catch up on the latest
  ### Clone  the Repository using  command below:
 
 ```
-git clone https://github.com/finaclemence15/newshighlight
+git clone https://github.com/ndambuki94/newshighlight
 
 Run cd newshighlight in the terminal.
 
